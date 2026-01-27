@@ -35,9 +35,9 @@ Here are some projects that demonstrate my work in Systems Engineering, AI, and 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=181818" alt="Bipin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MasterShifu619&show_icons=true&theme=dark&hide_border=true&bg_color=181818" alt="Bipin's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=181818" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterShifu619&layout=compact&theme=dark&hide_border=true&bg_color=181818" alt="Top Languages" />
 </p>
 
 ---
