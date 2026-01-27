@@ -1,13 +1,13 @@
 # Hi there, I'm Bipin Gowda 👋
 
-### Backend Engineer | Distributed Systems Specialist | Cloud Native Enthusiast
+### Software Engineer | Backend Systems & Cloud Infrastructure
 
-I am a software engineer obsessed with **scale**. With a background architecting control planes for **1 million+ IoT devices** at Rakuten Mobile and currently finalizing my Master’s in Computer Science at NC State, I focus on building "anti-fragile" infrastructure that remains robust under massive concurrency.
+I am a Backend Engineer with 4+ years of experience building production-grade infrastructure. Previously, I helped manage connected device platforms at Rakuten Mobile, ensuring reliability for over **1 million endpoints**. Currently pursuing my Master’s in Computer Science at *NC State*, I focus on writing clean, maintainable code and orchestrating scalable containerized environments.
 
-- 🔭 I’m currently working on **Distributed Consensus Algorithms** and **Cloud-Native Resilience**.
-- 🌱 I’m currently learning **Advanced Kubernetes Operators** and **eBPF for Observability**.
-- ☁️ I’m looking to collaborate on **Open Source Scalability Tools** or **High-Performance Backend Systems**.
-- ⚡ Fun fact: I once optimized a MongoDB query that reduced latency by 95% during a critical production outage.
+- 🔭 I’m currently working on **Cloud-Native System Design**.
+- 🌱 I’m currently exploring **Kubernetes Operators and Custom Controllers**.
+- ☁️ I’m interested in **Distributed Systems** and **Backend Reliability Engineering**.
+- ⚡ Fun fact: I enjoy the challenge of debugging complex production issues almost as much as building new features.
 
 ---
 
@@ -15,10 +15,12 @@ I am a software engineer obsessed with **scale**. With a background architecting
 
 Here are some projects that demonstrate my work in Systems Engineering, AI, and Automation:
 
-- **[RL-Network-Intrusion-Detection](https://github.com/YOUR_USERNAME/RL-Network-Intrusion-Detection)** - An implementation of PPO and A3C Reinforcement Learning algorithms to model and automate network intrusion detection, improving training convergence by 35%.
-- **[Distributed-IoT-Control-Plane](https://github.com/YOUR_USERNAME/Distributed-IoT-Control-Plane)** - A scalable microservices architecture prototype designed to handle high-concurrency device state management, inspired by my work with TR-069 protocols.
-- **[K8s-Resilience-Patterns](https://github.com/YOUR_USERNAME/K8s-Resilience-Patterns)** - A collection of Kubernetes manifests and configurations demonstrating self-healing patterns, circuit breakers, and auto-scaling policies for Spring Boot applications.
-- **[Zero-Touch-Provisioning-Scripts](https://github.com/YOUR_USERNAME/Zero-Touch-Provisioning-Scripts)** - Python automation scripts for simulating "Zero-Touch" provisioning flows, reducing manual configuration overhead for network devices.
+- **[GameEngineProject](https://github.com/MasterShifu619/GameEngineProject) - A modular, component-based 2D game engine built with C++, SDL3, and ZeroMQ, featuring real-time multiplayer networking and timeline-driven physics.
+- **[GodsEye](https://github.com/MasterShifu619/GodsEye) - A drone-based surveillance system utilizing YOLOv3 and posture analysis to automatically detect violent behavior in real-time video streams with 90% accuracy.
+- **[TaskMasterPro](https://github.com/MasterShifu619/TaskMasterPro) - A comprehensive productivity web application built with Django, featuring collaborative task management, intelligent user analytics, and customizable workflow templates.
+- **[Slash](https://github.com/MasterShifu619/Slash) - An open-source e-commerce API framework that aggregates real-time product data and deals from major retailers (Amazon, Walmart, Target) using a scalable backend and React frontend.
+- **[AI-Blog-Generator](https://github.com/MasterShifu619/ai-blog-generator-interview-bipin-gowda) - A Flask-based automated content engine that uses OpenAI GPT-4 and Pixabay to generate, SEO-optimize, and schedule daily blog posts.
+
 
 ---
 
