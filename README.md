@@ -27,20 +27,7 @@ Here are some projects that demonstrate my work in Systems Engineering, AI, and 
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=left&titleAlign=left&borderRadius=4&theme=dark&lineCount=4&line1=java,Java,auto;python,Python,auto;cplusplus,C%2b%2b,auto;typescript,TypeScript,auto;&line2=spring,Spring%20Boot,auto;django,Django,auto;nodedotjs,Node.js,auto;react,React,auto;&line3=kubernetes,Kubernetes,auto;docker,Docker,auto;amazonwebservices,AWS,auto;terraform,Terraform,auto;&line4=mongodb,MongoDB,auto;postgresql,PostgreSQL,auto;redis,Redis,auto;linux,Linux,auto;" alt="Bipin's Tech Stack" />
 </p>
 
 ---
