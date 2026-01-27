@@ -27,7 +27,7 @@ Here are some projects that demonstrate my work in Systems Engineering, AI, and 
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=left&titleAlign=left&borderRadius=4&theme=dark&lineCount=5&line1=java,Java,auto;kotlin,Kotlin,auto;python,Python,auto;cplusplus,C%2b%2b,auto;nodedotjs,Node.js,auto;&line2=spring,Spring,auto;django,Django,auto;react,React,auto;mysql,MySQL,auto;mongodb,MongoDB,auto;&line3=kubernetes,Kubernetes,auto;helm,Helm,auto;docker,Docker,auto;jenkins,Jenkins,auto;jfrog,Artifactory,auto;&line4=amazonwebservices,AWS,auto;terraform,Terraform,auto;prometheus,Prometheus,auto;grafana,Grafana,auto;kibana,Kibana,auto;&line5=linux,Linux,auto;git,Git,auto;redis,Redis,auto;typescript,TypeScript,auto;" alt="Bipin's Tech Stack" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=left&titleAlign=left&borderRadius=4&theme=dark&lineCount=5&width=1000&line1=java,Java,auto;kotlin,Kotlin,auto;python,Python,auto;cplusplus,C%2b%2b,auto;nodedotjs,Node.js,auto;&line2=spring,Spring,auto;django,Django,auto;react,React,auto;mysql,MySQL,auto;mongodb,MongoDB,auto;&line3=kubernetes,Kubernetes,auto;helm,Helm,auto;docker,Docker,auto;jenkins,Jenkins,auto;jfrog,Artifactory,auto;&line4=amazonwebservices,AWS,auto;terraform,Terraform,auto;prometheus,Prometheus,auto;grafana,Grafana,auto;kibana,Kibana,auto;&line5=linux,Linux,auto;git,Git,auto;redis,Redis,auto;typescript,TypeScript,auto;" alt="Bipin's Tech Stack" />
 </p>
 
 ---
