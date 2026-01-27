@@ -57,6 +57,6 @@ Here are some projects that demonstrate my work in Systems Engineering, AI, and 
 
 ### 📫 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/bipingowda](https://linkedin.com/in/bipingowda)
-- **Portfolio:** [YourPortfolioLink.com](https://YourPortfolioLink.com)
-- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
+- **Portfolio:** [bipin-gowda-portfolio.vercel.app](https://bipin-gowda-portfolio.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/bipingowda31121997](https://www.linkedin.com/in/bipingowda31121997/)
+- **Email:** [bvgowda@ncsu.edu](mailto:bvgowda@ncsu.edu) | [bipin.919@gmail.com](mailto:bipin.919@gmail.com)
