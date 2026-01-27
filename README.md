@@ -15,11 +15,11 @@ I am a Backend Engineer with 4+ years of experience building production-grade in
 
 Here are some projects that demonstrate my work in Systems Engineering, AI, and Automation:
 
-- **[GameEngineProject]**(https://github.com/MasterShifu619/GameEngineProject) - A modular, component-based 2D game engine built with C++, SDL3, and ZeroMQ, featuring real-time multiplayer networking and timeline-driven physics.
-- **[GodsEye]**(https://github.com/MasterShifu619/GodsEye) - A drone-based surveillance system utilizing YOLOv3 and posture analysis to automatically detect violent behavior in real-time video streams with 90% accuracy.
-- **[TaskMasterPro]**(https://github.com/MasterShifu619/TaskMasterPro) - A comprehensive productivity web application built with Django, featuring collaborative task management, intelligent user analytics, and customizable workflow templates.
-- **[Slash]**(https://github.com/MasterShifu619/Slash) - An open-source e-commerce API framework that aggregates real-time product data and deals from major retailers (Amazon, Walmart, Target) using a scalable backend and React frontend.
-- **[AI-Blog-Generator]**(https://github.com/MasterShifu619/ai-blog-generator-interview-bipin-gowda) - A Flask-based automated content engine that uses OpenAI GPT-4 and Pixabay to generate, SEO-optimize, and schedule daily blog posts.
+- [GameEngineProject](https://github.com/MasterShifu619/GameEngineProject) - A modular 2D game engine built with C++, SDL3, and ZeroMQ featuring real-time multiplayer networking and timeline-based physics.
+- [TaskMasterPro](https://github.com/MasterShifu619/TaskMasterPro) - A comprehensive productivity web application built with Django, featuring collaborative task management, intelligent user analytics, and customizable workflow templates.
+- [Slash](https://github.com/MasterShifu619/Slash) - An open-source e-commerce API framework that aggregates real-time product data and deals from major retailers (Amazon, Walmart, Target) using a scalable backend and React frontend.
+- [GodsEye](https://github.com/MasterShifu619/GodsEye) - A drone-based surveillance system utilizing YOLOv3 and posture analysis to automatically detect violent behavior in real-time video streams with 90% accuracy.
+- [AI-Blog-Generator](https://github.com/MasterShifu619/ai-blog-generator-interview-bipin-gowda) - A Flask-based automated content engine that uses OpenAI GPT-4 and Pixabay to generate, SEO-optimize, and schedule daily blog posts.
 
 
 ---
