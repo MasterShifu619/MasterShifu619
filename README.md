@@ -12,9 +12,12 @@ I am a Backend Engineer with 4+ years of experience building production-grade in
 ---
 
 ### 🚀 Featured Repositories
-
 Here are some projects that demonstrate my work in Systems Engineering, AI, and Automation:
 
+- [Who Eats Whom](https://github.com/MasterShifu619/who-eats-who) - An interactive ecological food web exhibit built with Next.js and FastAPI, visualizing ~13,000 verified iNaturalist feeding records on a Neo4j graph database. Deployed on AWS EKS and showcased at Marbles Kids Museum's Backwards Science Fair.
+- [Amma's Kitchen](https://github.com/MasterShifu619/Ammas-kitchen) - A full-stack recipe platform built with React, FastAPI, and PostgreSQL, deployed on AWS EKS using Terraform and GitHub Actions CI/CD pipelines.
+- [Verity](https://github.com/HackNC-state-mahim-varun-tarun-bipin/Verity) - A real-time fact-checking platform built at NC State Hackathon 2026 (2nd place, AWS track) using AWS Lambda, Bedrock, and RAG pipelines for concurrent claim verification.
+- [Splitcart](https://github.com/MasterShifu619/splitcart) - An automated grocery expense splitter that parses Instacart delivery emails via Gmail and pushes split charges to Splitwise, eliminating manual bill splitting for shared households.
 - [GameEngineProject](https://github.com/MasterShifu619/GameEngineProject) - A modular 2D game engine built with C++, SDL3, and ZeroMQ featuring real-time multiplayer networking and timeline-based physics.
 - [Byte-My-Dish](https://github.com/MasterShifu619/byte-my-dish) - A collaborative food-sharing platform connecting users with local home cooks and surplus food to reduce waste and foster community engagement.
 - [TaskMasterPro](https://github.com/MasterShifu619/TaskMasterPro) - A comprehensive productivity web application built with Django, featuring collaborative task management, intelligent user analytics, and customizable workflow templates.
