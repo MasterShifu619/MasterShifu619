@@ -1,8 +1,6 @@
 # Hi there, I'm Bipin Gowda 👋
-
 ### Software Engineer | Backend Systems & Cloud Infrastructure
-
-I am a Backend Engineer with 4+ years of experience building production-grade infrastructure. Previously, I helped manage connected device platforms at Rakuten Mobile, ensuring reliability for over **1 million endpoints**. Currently pursuing my Master’s in Computer Science at *NC State*, I focus on writing clean, maintainable code and orchestrating scalable containerized environments.
+I am a Backend Engineer with 4+ years of experience building production-grade infrastructure. Previously, I helped manage connected device platforms at Rakuten Mobile, ensuring reliability for over **1 million endpoints**. I hold a Master's in Computer Science from *NC State University* and focus on writing clean, maintainable code and orchestrating scalable containerized environments.
 
 - 🔭 I’m currently working on **Cloud-Native System Design**.
 - 🌱 I’m currently exploring **Kubernetes Operators and Custom Controllers**.
